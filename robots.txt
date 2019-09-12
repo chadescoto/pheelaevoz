@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ayachiphoo.informationsuperhighway.online/sitemap.xml
